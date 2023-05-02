@@ -1,0 +1,9 @@
+Historical Customer Sessions:
+Customer Email: alexjones@gmail.com
+Total Sessions: 1
+- Session ID: 2345566, Trainer ID: 634657, Trainer Name: sam smith, Date: 4/30/2023, Time: 01:30, Status: Booked
+
+Customer Email: cecilymason@gmail.com
+Total Sessions: 1
+- Session ID: 3463487, Trainer ID: 634657, Trainer Name: sam smith, Date: 4/30/2023, Time: 01:30, Status: Completed
+
